@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.edifice</groupId>
-        <artifactId>edifice-parent</artifactId>
-        <version>1.0</version>
+        <groupId>org.openent</groupId>
+        <artifactId>libs</artifactId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <groupId>com.opendigitaleducation</groupId>
